@@ -1,4 +1,4 @@
-
+new IVPN Module | no-logs-policy + obfuscation offers the most advanced IVPN module, with no-logs-policy and obfuscation. Ideal for users who value privacy and security.
 
 
 
